@@ -1,6 +1,4 @@
 # Ted X Cybersecurity
-• [Cybersecurity_slides]
-(
-https://www.canva.com/design/DAF7L-Eafpk/mkfkM2AESrbkTj2ojTD2iA/edit?utm_content=DAF7L-Eafpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-# Ted X Pandemic
-https://github.com/incluDna/Tedtalk/blob/dd71d9fc5dece4a88ce70438df14451211e8294e/TED%20x%20Pandemic.pdf
+• [Cybersecurity_slides](https://github.com/incluDna/Tedtalk/blob/ea478418131c116079132ee819082857755a4adc/TED%20x%20Cybersecurity.pdf)
+
+🙌🏻 I got the project about TedXGlobal issue. First of all, I found the interesting topic that made me choosed "Cybersecurity". I think this topic suit to elaborate and very important to make people realise about the importance of privacy and security in the network. Because this is the technology world, everything is moving fast. Even, hackers and scrammers also devolope their skills.
