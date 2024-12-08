@@ -1,7 +1,7 @@
 # Ted X Cybersecurity
 • [Cybersecurity_slides](https://github.com/incluDna/Tedtalk/blob/ea478418131c116079132ee819082857755a4adc/TED%20x%20Cybersecurity.pdf)
 
-🙌🏻 I got the project about TedXGlobal issue. First of all, I found the interesting topic that made me choosed "Cybersecurity". I think this topic suit to elaborate and very important to make people realise about the importance of privacy and security in the network. Because this is the technology world, everything is moving fast. Even, hackers and scrammers also devolope their skills.
+🙌🏻 I got the project about the TEDxGlobal issue. First of all, I found an interesting topic that led me to choose "Cybersecurity." I believe this topic is suitable for elaboration and is crucial for making people aware of the importance of privacy and security in the network. In today's fast-paced technological world, even hackers and scammers are constantly developing their skills.
 
 <img src="https://github.com/user-attachments/assets/1146ee02-d36e-4b02-883d-a0375823e5df" width="400px">
 
