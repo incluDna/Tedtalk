@@ -5,19 +5,19 @@
 
 <img src="https://github.com/user-attachments/assets/1146ee02-d36e-4b02-883d-a0375823e5df" width="400px">
 
-<in progress
->
+- Cybersecurity is the technology/process are designed to protect network, device, program or data from the attack. It's very improtant. Because if your systems are attacked. It will be hard to recover the damage. So, what it the issue. It is `cyber attacks`.
 
 <img src="https://github.com/user-attachments/assets/94455a7a-dc76-4af0-9628-1e9539578cfd" width="400px">
 <img src="https://github.com/user-attachments/assets/8557f78d-5a53-49ba-9c82-7f8b02be602c" width="400px">
 
-<in progress
->
+- Ex. of cyber attacks: Social engineering, Spyware (is malware designed to collect sensitive data), Password attack (hacker will cracks your password by use various programs)
+- I will show you the important topic and very close to us is `"Social engineering"`.
+- Actually, it is the method that use psycjological technic to trick people, by making credibility and persuasion to make people do sth. and scrammer will get your sensitive information.
+- 
 
 <img src="https://github.com/user-attachments/assets/c9323087-eba9-4fa9-990e-5905fa4b195c" width="400px">
 
-<in progress
->
+- I want to show you that even tech person also was tricked by scrammer.
 
 <img src="https://github.com/user-attachments/assets/7897a040-94f2-4524-b6e6-1345ae1863ab" width="400px">
 
