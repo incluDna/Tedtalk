@@ -13,13 +13,19 @@
 - Ex. of cyber attacks: Social engineering, Spyware (is malware designed to collect sensitive data), Password attack (hacker will cracks your password by use various programs)
 - I will show you the important topic and very close to us is `"Social engineering"`.
 - Actually, it is the method that use psycjological technic to trick people, by making credibility and persuasion to make people do sth. and scammer will get your sensitive information.
-- Ex. of Social engineering: Scammer/Call center gang, 
+- Ex. of Social engineering: Scammer/Call center gang, Phishing email (use your friend/family name or cloning their voice to make credibility. They will choose people that has good relationship with you, to make sure that you will trust them and follow their request. CEO fraud (scammer imitate company and CEO email to make credibility and use this to defraud people.)
 
 <img src="https://github.com/user-attachments/assets/c9323087-eba9-4fa9-990e-5905fa4b195c" width="400px">
 
-- I want to show you that even tech person also was tricked by scammer.
+- I want to show you 2 News, but all of these can create the big damage.
+- A: 68 yrs old housewife lost 1.5M ฿. Because scammer tricked her that she was eligible to recieve 5K ฿ from government financial aid scheme and she will paid to clear this fault.
+- B: The scammer used phishing email technic by using email that similar with company email to trick tech employees from Google and Facebook.
+- So, you can see everyone can be tricked even tech person.
 
 <img src="https://github.com/user-attachments/assets/7897a040-94f2-4524-b6e6-1345ae1863ab" width="400px">
 
+- I have an update to warn you about `AI voice cloning`. It use less than min. to gen voice and scammer can use your voice to trick other people (close to you).
+
+🙏 I'm hope that people will be mindful, don't rush to decide. Because scammers/hackers will use limit of time to make you thinkless/careless. So, be careful before filling or telling anything. Check the safety of your password/use 2 step verification. Thank you.
 
 
