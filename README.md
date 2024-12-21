@@ -26,6 +26,6 @@
 
 - I have an update to warn you about `AI voice cloning`. It use less than min. to gen voice and scammer can use your voice to trick other people (close to you).
 
-🙏 I'm hope that people will be mindful, don't rush to decide. Because scammers/hackers will use limit of time to make you thinkless/careless. So, be careful before filling or telling anything. Check the safety of your password/use 2 step verification. Thank you.
+🙏 I hope that people will be mindful, don't rush to decide. Because scammers/hackers will use limit of time to make you thinkless/careless. So, be careful before filling or telling anything. Check the safety of your password/use 2 step verification. Thank you.
 
 
