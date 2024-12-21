@@ -12,7 +12,7 @@
 
 - Ex. of cyber attacks: Social engineering, Spyware (is malware designed to collect sensitive data), Password attack (hacker will cracks your password by use various programs)
 - I will show you the important topic and very close to us is `"Social engineering"`.
-- Actually, it is the method that use psycjological technic to trick people, by making credibility and persuasion to make people do sth. and scammer will get your sensitive information.
+- Actually, it is the method that use psychological technic to trick people, by making credibility and persuasion to make people do sth. and scammer will get your sensitive information.
 - Ex. of Social engineering: Scammer/Call center gang, Phishing email (use your friend/family name or cloning their voice to make credibility. They will choose people that has good relationship with you, to make sure that you will trust them and follow their request. CEO fraud (scammer imitate company and CEO email to make credibility and use this to defraud people.)
 
 <img src="https://github.com/user-attachments/assets/c9323087-eba9-4fa9-990e-5905fa4b195c" width="400px">
